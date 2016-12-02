@@ -1,0 +1,65 @@
+body {
+    background-color: whitesmoke;
+}
+
+a.muaThe {
+    height: 124px;
+    text-indent: -9999px;
+    display: inline-block;
+}
+
+
+/* Nạp điện thoại trả trước, thanh toán hoá đơn trả sau*/
+
+a#napTraTruoc {
+    width: 225px;
+    background-image: url('../images/naptiendttratruoc.png');
+    background-position: 0px 0px;
+}
+
+a#napTraTruoc:hover {
+    width: 225px;
+    background-position: 0px 124px;
+}
+
+
+/*Mua thẻ điện thoại để chơi game và mua sắm*/
+
+a#theDienThoai {
+    width: 225px;
+    background-image: url('../images/thedtchoigame.png');
+    background-position: 0px 0px;
+}
+
+a#theDienThoai:hover {
+    width: 225px;
+    background-position: 0px 124px;
+}
+
+
+/* Nạp tài khoản game, mua mã thẻ game */
+
+a#maTheGame {
+    width: 225px;
+    background-image: url('../images/muathegame.png');
+    background-position: 0px 0px;
+}
+
+a#maTheGame:hover {
+    width: 225px;
+    background-position: 0px 124px;
+}
+
+
+/*Nạp tài khoản facebook để chơi game facebook*/
+
+a#napTaiKhoanFB {
+    width: 225px;
+    background-image: url('../images/naptaikhoanfacebook.png');
+    background-position: 0px 0px;
+}
+
+a#napTaiKhoanFB:hover {
+    width: 225px;
+    background-position: 0px 124px;
+}
